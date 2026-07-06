@@ -1,18 +1,109 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Computer Vision and AI-driven systems, including face recognition, traffic analytics, safety monitoring solutions, and full-stack web applications.<br>👯 I’m looking to collaborate on<br>AI/ML projects, computer vision applications, intelligent automation, IoT-based systems, and scalable web platforms.<br>🤝 I’m looking for help with<br>Advanced model optimization, real-time AI deployment on edge devices, and production-grade system architecture.<br>🌱 I’m currently learning<br>Agentic AI, large language models (LLMs), advanced deep learning techniques, and efficient edge AI deployment.<br>💬 Ask me about<br>Python, OpenCV, Computer Vision, AI system design, Flask/web development, Raspberry Pi, ESP32, and real-time video analytics.<br>⚡ Fun fact<br>I bridge hardware and AI—building systems where embedded devices and intelligent software work together seamlessly
+<h1 align="center">Hi, I'm Shubhranil 👋</h1>
+<h3 align="center">Electrical Engineering Undergrad · Computer Vision & ML Engineer · IoT Builder</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+industrial+CV+%2B+ML+systems;Flask+%2B+YOLO+%2B+GStreamer+%2B+ESP32;Turning+factory+floors+into+dashboards" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shubhranil Rana) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jim_philic_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubhranil-rana-686956203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhranil122190@gmail.com) 
-
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shubhrani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shubhrani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shubhrani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+- 🎓 B.Tech in **Electrical Engineering**, Institute of Engineering & Management, Kolkata — Class of **2027**
+- 🏭 Building **industrial monitoring systems** — real-time blade/billet counting, furnace heat-cycle tracking, and CCM pyrometer dashboards for a steel plant (MSP Raigarh)
+- 👁️ Hands-on with **computer vision & ML** — YOLO, OpenCV, GStreamer RTSP pipelines, MediaPipe
+- 🔌 Into **embedded systems & IoT** — ESP32, PlatformIO, health monitors, aquarium automation
+- 🖥️ Enjoy building **full-stack dashboards** with distinctive dark-mode, industrial-grade UI aesthetics
+- 📈 Also explore applied ML in finance — LSTM-based stock prediction with confidence modeling
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🏭 MSP Industrial Dashboard Suite</h4>
+      Real-time blade/billet cut counting with YOLO + GStreamer RTSP, plus SMS Furnace &amp; CCM pyrometer monitoring across SQL Server + InfluxDB backends. Superadmin-gated production controls, live CSV crash protection, combined Excel exports.
+      <br><br>
+      <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask">
+      <img src="https://img.shields.io/badge/-YOLO-cyan?style=flat-square">
+      <img src="https://img.shields.io/badge/-GStreamer-red?style=flat-square">
+      <img src="https://img.shields.io/badge/-InfluxDB-blue?style=flat-square&logo=influxdb">
+    </td>
+    <td width="50%">
+      <h4>📈 NeuralTrade</h4>
+      Full-stack AI stock prediction app: evolved from a univariate LSTM to a 13-feature multivariate model with Monte Carlo dropout confidence bands, backtesting, and Gemini-powered insights.
+      <br><br>
+      <img src="https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow">
+      <img src="https://img.shields.io/badge/-LSTM-purple?style=flat-square">
+      <img src="https://img.shields.io/badge/-Gemini_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🚦 Traffic Surveillance System</h4>
+      Merged four CV modules — helmet detection, red-light violation, speed monitoring, and ANPR — into a single Flask app with a dark control-room UI.
+      <br><br>
+      <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv">
+      <img src="https://img.shields.io/badge/-YOLO-cyan?style=flat-square">
+      <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask">
+    </td>
+    <td width="50%">
+      <h4>💓 VitalSync</h4>
+      ESP32-based health monitoring system with Blynk integration, OLED display, and a fully custom PlatformIO build.
+      <br><br>
+      <img src="https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif">
+      <img src="https://img.shields.io/badge/-Blynk-03C3DC?style=flat-square">
+      <img src="https://img.shields.io/badge/-PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shubhrani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrani&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhrani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhrani&theme=react-dark&hide_border=true" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <i>⚡ Currently building real-time industrial vision systems and prepping for the TCS NQT</i>
+</p>
