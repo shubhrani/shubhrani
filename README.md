@@ -1,18 +1,79 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Computer Vision and AI-driven systems, including face recognition, traffic analytics, safety monitoring solutions, and full-stack web applications.<br>👯 I’m looking to collaborate on<br>AI/ML projects, computer vision applications, intelligent automation, IoT-based systems, and scalable web platforms.<br>🤝 I’m looking for help with<br>Advanced model optimization, real-time AI deployment on edge devices, and production-grade system architecture.<br>🌱 I’m currently learning<br>Agentic AI, large language models (LLMs), advanced deep learning techniques, and efficient edge AI deployment.<br>💬 Ask me about<br>Python, OpenCV, Computer Vision, AI system design, Flask/web development, Raspberry Pi, ESP32, and real-time video analytics.<br>⚡ Fun fact<br>I bridge hardware and AI—building systems where embedded devices and intelligent software work together seamlessly
+<h1 align="center">Hi 👋, I'm Shubhranil Rana</h1>
+<h3 align="center">Electrical Engineering Undergrad • Computer Vision & ML Builder • Embedded Systems Tinkerer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Building+YOLO-powered+industrial+dashboards;Flask+%2B+OpenCV+%2B+GStreamer+%2B+InfluxDB;ESP32+IoT+tinkerer+%7C+Full-stack+builder;B.Tech+EE+%40+IEM+Kolkata+(2027)" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shubhranil Rana) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jim_philic_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubhranil-rana-686956203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhranil122190@gmail.com) 
-
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shubhrani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shubhrani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubhranil-rana-686956203" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_jim_philic_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/shubhranil.rana" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:shubhranil122190@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shubhrani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+- 🎓 B.Tech in **Electrical Engineering**, Institute of Engineering & Management (IEM), Kolkata — Class of 2027
+- 🔭 Currently building **industrial monitoring dashboards** for a steel plant (MSP Raigarh) — real-time blade/billet counting with YOLO + GStreamer + Flask
+- 🧠 Strong focus on **Computer Vision & Machine Learning** — previously interned at **Kotai Electronics**
+- 🌱 Deep interest in **embedded systems & IoT** — ESP32, sensor integration, PlatformIO
+- 💻 I love building **full-stack web apps with distinctive UI aesthetics** — not just functional, but good-looking
+- ⚡ Fun fact: my projects range from fish feeders to traffic surveillance systems to AI stock predictors
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,react,opencv,tensorflow,arduino,cpp,sqlite,mysql,git,vscode,html,css,js&theme=dark" />
+</p>
+
+**Computer Vision & ML:** OpenCV · YOLO / Ultralytics · MediaPipe · TensorFlow / Keras · GStreamer
+**Backend & Data:** Python · Flask · SQL Server · SQLite · InfluxDB
+**Frontend:** React · HTML/CSS/JS
+**Embedded / IoT:** ESP32 · Arduino · PlatformIO · Blynk
+**Tools:** Git · VS Code
+
+---
+
+### 🏗️ Featured Projects
+
+| Project | Description |
+|---|---|
+| 🏭 **MSP Raigarh Industrial Dashboard** | Flask-based suite monitoring SMS Furnace heat cycles & CCM pyrometer data, with SQL Server + InfluxDB backends |
+| ⚙️ **Blade/Billet Cut Counter** | Real-time industrial counting system combining OpenCV, GStreamer RTSP streaming, and YOLO detection |
+| 📈 **NeuralTrade** | Full-stack AI stock prediction app — multivariate LSTM with Monte Carlo dropout confidence bands + Gemini AI insights |
+| 🚦 **Traffic Surveillance Suite** | Unified Flask app merging helmet detection, red-light violation, speed monitoring & ANPR into one control-room UI |
+| 💓 **VitalSync** | ESP32-based health monitoring system with Blynk integration & OLED display |
+| 🐠 **Automatic Fish Feeder** | ESP32 IoT feeder with NTP time sync and a custom web dashboard |
+| ✋ **Hand Gesture Detection** | Real-time gesture recognition using MediaPipe with voice feedback via pyttsx3 |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhranil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhranil&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhranil&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>📫 Reach me at <b>shubhranil122190@gmail.com</b> or connect on LinkedIn above — always open to collaborating on CV, IoT, or full-stack projects!</i>
+</p>
