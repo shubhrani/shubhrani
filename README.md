@@ -68,8 +68,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhranil&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
+### 📈 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhranil&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhranil&theme=tokyo-night&hide_border=true"/>
+</p>
+
+### 🏆 Trophy Case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhranil&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhranil&style=for-the-badge&color=blue"/>
 </p>
 
 ---
