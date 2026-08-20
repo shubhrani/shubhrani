@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shubhranil Rana</h1>
-<h3 align="center">Electrical Engineering Undergrad • Computer Vision & ML Builder • Embedded Systems Tinkerer</h3>
+<h3 align="center">Computer Vision & ML Engineer • Full-Stack Developer • Embedded Systems Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Building+YOLO-powered+industrial+dashboards;Flask+%2B+OpenCV+%2B+GStreamer+%2B+InfluxDB;ESP32+IoT+tinkerer+%7C+Full-stack+builder;B.Tech+EE+%40+IEM+Kolkata+(2027)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Building+YOLO-powered+industrial+vision+systems;Flask+%2B+OpenCV+%2B+GStreamer+%2B+SQL+Server;Real-time+detection+on+live+production+lines;B.Tech+EE+%40+IEM+Kolkata+%7C+Class+of+2027" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubhranil-rana-686956203" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shubhranil122190@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_jim_philic_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -15,21 +18,18 @@
   <a href="https://www.facebook.com/shubhranil.rana" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:shubhranil122190@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
+- 🏭 Building **real-time industrial computer vision systems** for MSP Raigarh — YOLO-based detection pipelines for production-line monitoring, with GStreamer RTSP ingestion and Flask-based control dashboards
 - 🎓 B.Tech in **Electrical Engineering**, Institute of Engineering & Management (IEM), Kolkata — Class of 2027
-- 🔭 Currently building **industrial monitoring dashboards** for a steel plant (MSP Raigarh) — real-time blade/billet counting with YOLO + GStreamer + Flask
-- 🧠 Strong focus on **Computer Vision & Machine Learning** — previously interned at **Kotai Electronics**
-- 🌱 Deep interest in **embedded systems & IoT** — ESP32, sensor integration, PlatformIO
-- 💻 I love building **full-stack web apps with distinctive UI aesthetics** — not just functional, but good-looking
-- ⚡ Fun fact: my projects range from fish feeders to traffic surveillance systems to AI stock predictors
+- 🧠 Focused on **computer vision and applied machine learning**, with hands-on experience gained through an internship at **Kotai Electronics**
+- 🔌 Equally at home in **embedded systems & IoT** — ESP32, sensor integration, PlatformIO
+- 💻 Full-stack builder who cares about **design as much as functionality** — clean, distinctive UI, not just working code
+- ⚡ Range spans real-time video pipelines to LSTM-based forecasting — from factory floor to financial markets
 
 ---
 
@@ -51,13 +51,13 @@
 
 | Project | Description |
 |---|---|
-| 🏭 **MSP Raigarh Industrial Dashboard** | Flask-based suite monitoring SMS Furnace heat cycles & CCM pyrometer data, with SQL Server + InfluxDB backends |
-| ⚙️ **Blade/Billet Cut Counter** | Real-time industrial counting system combining OpenCV, GStreamer RTSP streaming, and YOLO detection |
-| 📈 **NeuralTrade** | Full-stack AI stock prediction app — multivariate LSTM with Monte Carlo dropout confidence bands + Gemini AI insights |
-| 🚦 **Traffic Surveillance Suite** | Unified Flask app merging helmet detection, red-light violation, speed monitoring & ANPR into one control-room UI |
-| 💓 **VitalSync** | ESP32-based health monitoring system with Blynk integration & OLED display |
+| 🏭 **MSP Raigarh Industrial Dashboard** | Flask-based monitoring suite for SMS furnace heat cycles and CCM pyrometer data, backed by SQL Server and InfluxDB |
+| ⚙️ **Blade/Billet Cut Counter** | Production-line vision system combining OpenCV, GStreamer RTSP streaming, and YOLO for real-time counting |
+| 🚦 **Traffic Surveillance Suite** | Unified Flask control-room app merging helmet detection, red-light violation detection, speed monitoring, and ANPR |
+| 📈 **NeuralTrade** | Full-stack AI stock prediction app — multivariate LSTM with Monte Carlo dropout confidence bands and Gemini AI–generated insights |
+| 💓 **VitalSync** | ESP32-based health monitoring system with Blynk integration and an OLED display |
 | 🐠 **Automatic Fish Feeder** | ESP32 IoT feeder with NTP time sync and a custom web dashboard |
-| ✋ **Hand Gesture Detection** | Real-time gesture recognition using MediaPipe with voice feedback via pyttsx3 |
+| ✋ **Hand Gesture Detection** | Real-time gesture recognition using MediaPipe, with voice feedback via pyttsx3 |
 
 ---
 
@@ -87,5 +87,5 @@
 ---
 
 <p align="center">
-  <i>📫 Reach me at <b>shubhranil122190@gmail.com</b> or connect on LinkedIn above — always open to collaborating on CV, IoT, or full-stack projects!</i>
+  <i>📫 Reach me at <b>shubhranil122190@gmail.com</b> or connect on LinkedIn above — always open to collaborating on computer vision, IoT, or full-stack projects.</i>
 </p>
